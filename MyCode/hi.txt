@@ -5,3 +5,6 @@ Note:
 
 First text file for GIT testing. 
 Saving this to local repositry. 
+
+Now udpating it from GITHUB directly. 
+will pull and check if it got updated.
