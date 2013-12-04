@@ -10,3 +10,5 @@ Now udpating it from GITHUB directly.
 will pull and check if it got updated.
 
 Now will update and save it in local repositry and check the diff.
+
+Edited by another user to check how conflict works.
